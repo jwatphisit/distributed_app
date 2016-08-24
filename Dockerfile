@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Jay Watphisit "j"
+MAINTAINER Jay Watphisit "jwatphisit@hotmail.com"
 ENV REFRESHED_AT 2016-06-01
 
 RUN apt-get -qqy update
